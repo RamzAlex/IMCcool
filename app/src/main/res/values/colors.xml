@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#eb1455</color>
+    <color name="fondoBoton">#424977</color>
+    <color name="fondoTarjeta">#1d2033</color>
+    <color name="FondoApp">#090b20</color>
+    <color name="FondoTarjetas">#111328</color>
+    <color name="colorTextos">#81838f</color>
+</resources>
